@@ -1,2 +1,2 @@
 # KaggleSolved
-Solve Kaggle problems
+Solved Kaggle Problems
